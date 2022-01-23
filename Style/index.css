@@ -198,7 +198,7 @@ color:red;
 .big-img{
     width:95%;
     height: 500px;
-    background-image: url("../Img/photo-1561758033-d89a9ad46330\ \(1\).jpeg");
+    background:black;
     background-size: 100%;
     background-position: center;
     margin: auto;
@@ -209,9 +209,7 @@ color:red;
     flex-direction: column;
     
 }
-.big-img::before{
-    background-color: rgba(0,0,0,0.6);
-}
+
 
 .big-img a{
     font-family: 'Playfair Display', serif;

@@ -49,22 +49,6 @@ sr.reveal('.ani2',{
 })
 
 
-
-let seccion2 = document.querySelector(".seccion2")// terget class or id
- // hear is  scroll logic
-window.addEventListener('scroll', () => {
-    
-   if( window.scrollY >1990 ){
-    seccion2.classList.add("fixed") 
-   }
-
-
-    if( window.scrollY >2900 || window.scrollY <1990){
-        seccion2.classList.remove("fixed")
-    }
-})
-
-
 let array=["url('./img/photo-1565958011703-44f9829ba187.jpeg')","url('./img/photo-1562967914-608f82629710.jpeg')",
   "url('./img/photo-1541832676-9b763b0239ab.jpeg')","url('./img/photo-1562036409-9dcc48472e29.jpeg')","url('./img/photo-1473093295043-cdd812d0e601.jpeg')"];
 
@@ -101,6 +85,26 @@ let array=["url('./img/photo-1565958011703-44f9829ba187.jpeg')","url('./img/phot
 
   
  })
+
+
+
+
+
+let seccion2 = document.querySelector(".seccion2")// terget class or id
+ // hear is  scroll logic
+window.addEventListener('scroll', () => {
+    
+   if( window.scrollY >1990 ){
+    seccion2.classList.add("fixed") 
+   }
+
+
+    if( window.scrollY >2900 || window.scrollY <1990){
+        seccion2.classList.remove("fixed")
+    }
+})
+
+
 
 
     

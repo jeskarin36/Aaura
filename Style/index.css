@@ -198,6 +198,8 @@ color:red;
 .big-img{
     width:90%;
     height: 500px;
+    background-image:url("../Img/photo-1562036409-9dcc48472e29.jpeg");
+    background-size: 100%;
     background-position: center;
     margin: auto;
     margin-top:120px;
@@ -213,7 +215,6 @@ color:red;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 45px;
-    background:blue;
     color: white;
     padding: 0px;
     margin: 0;

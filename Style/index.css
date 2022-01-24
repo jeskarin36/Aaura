@@ -196,7 +196,7 @@ color:red;
 
 
 .big-img{
-    width:1000px;
+    width:90%;
     height: 500px;
     margin: auto;
     margin-top:120px;
@@ -204,7 +204,9 @@ color:red;
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    background:blue;
+    background-image:url("../Img/photo-1561758033-d89a9ad46330 (1).jpeg");
+    background-size:100%;
+    background-position:center;
 }
 
 

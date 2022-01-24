@@ -204,7 +204,7 @@ color:red;
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    
+    background:blue;
 }
 
 
@@ -232,9 +232,6 @@ color:red;
 .cuadro1-big-img{
     width:80px;
     height: 25px;
-    background-image: url("../Img/photo-1473093295043-cdd812d0e601.jpeg");
-     background-size: 100%;
-    background-position: center;
     margin: 15px 15px;
     text-align: center;
     border-radius: 5px;

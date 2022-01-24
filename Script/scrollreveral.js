@@ -49,6 +49,13 @@ sr.reveal('.ani2',{
 })
 
 
+    if( window.scrollY >2900 || window.scrollY <1990){
+        seccion2.classList.remove("fixed")
+    }
+})
+/*
+
+
 let array=["url('../Img/photo-1565958011703-44f9829ba187.jpeg')","url('../Img/photo-1562967914-608f82629710.jpeg')",
   "url('../Img/photo-1541832676-9b763b0239ab.jpeg')","url('../Img/photo-1562036409-9dcc48472e29.jpeg')","url('../Img/photo-1473093295043-cdd812d0e601.jpeg')"];
 
@@ -101,7 +108,4 @@ window.addEventListener('scroll', () => {
    }
 
 
-    if( window.scrollY >2900 || window.scrollY <1990){
-        seccion2.classList.remove("fixed")
-    }
-})
+*/

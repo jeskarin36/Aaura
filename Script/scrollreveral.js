@@ -49,8 +49,8 @@ sr.reveal('.ani2',{
 })
 
 
-let array=["url('./img/photo-1565958011703-44f9829ba187.jpeg')","url('./img/photo-1562967914-608f82629710.jpeg')",
-  "url('./img/photo-1541832676-9b763b0239ab.jpeg')","url('./img/photo-1562036409-9dcc48472e29.jpeg')","url('./img/photo-1473093295043-cdd812d0e601.jpeg')"];
+let array=["url('./Img/photo-1565958011703-44f9829ba187.jpeg')","url('./Img/photo-1562967914-608f82629710.jpeg')",
+  "url('./Img/photo-1541832676-9b763b0239ab.jpeg')","url('./Img/photo-1562036409-9dcc48472e29.jpeg')","url('./Img/photo-1473093295043-cdd812d0e601.jpeg')"];
 
 
  let bigimg=document.querySelector(".big-img");

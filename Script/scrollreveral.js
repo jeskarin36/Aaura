@@ -53,7 +53,7 @@ sr.reveal('.ani2',{
         seccion2.classList.remove("fixed")
     }
 })
-/*
+
 
 
 let array=["url('../Img/photo-1565958011703-44f9829ba187.jpeg')","url('../Img/photo-1562967914-608f82629710.jpeg')",
@@ -108,4 +108,4 @@ window.addEventListener('scroll', () => {
    }
 
 
-*/
+

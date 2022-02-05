@@ -60,7 +60,7 @@ sr.reveal('.ani2',{
     
 
 
-let array=["url('./img/photo-1565958011703-44f9829ba187.jpeg')","url('./img/photo-1562967914-608f82629710.jpeg')","url('./Img/photo-1561758033-d89a9ad46330 (1).jpeg')","url('./img/photo-1562036409-9dcc48472e29.jpeg')","url('./img/photo-1473093295043-cdd812d0e601.jpeg')"];
+let array=["url('./Img/photo-1565958011703-44f9829ba187.jpeg')","url('./Img/photo-1562967914-608f82629710.jpeg')","url('./Img/photo-1561758033-d89a9ad46330 (1).jpeg')","url('./Img/photo-1562036409-9dcc48472e29.jpeg')","url('./Img/photo-1473093295043-cdd812d0e601.jpeg')"];
 
 let texto=["Perfect toast for breakfast","8 Easy Instant Pot Recipes","Flat Irons Skillet Potatoes","Pickled Summer Vegetables", "The Best Spaghetti Meat Sauce"]
 

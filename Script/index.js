@@ -1,3 +1,4 @@
+/*
 window.sr = ScrollReveal();
 
 sr.reveal('.contenedor-head',{
@@ -54,6 +55,7 @@ sr.reveal('.ani2',{
     distance: "50px"
 })
 
+*/
 
     
 
